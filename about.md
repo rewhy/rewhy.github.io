@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Ph.D. candidate at the Department of Computing, The Hong Kong PolytechniC University.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+TBA
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Y3NseHVl@comp.polyu.edu.hk](mailto:cslxue@comp.polyu.edu.hk)
