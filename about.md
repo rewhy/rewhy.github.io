@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Ph.D. candidate at the [Department of Computing](www.comp.polyu.edu.hk), [The Hong Kong Polytechnic University](www.polyu.edu.hk).
+I am a Ph.D. candidate at the [Department of Computing](http://www.comp.polyu.edu.hk), [The Hong Kong Polytechnic University](http://www.polyu.edu.hk).
 
 ### More Information
 
